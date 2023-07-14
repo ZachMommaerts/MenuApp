@@ -12,6 +12,7 @@
 		4186BE0A2A609B22001074D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4186BE092A609B22001074D9 /* Assets.xcassets */; };
 		4186BE0D2A609B22001074D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4186BE0C2A609B22001074D9 /* Preview Assets.xcassets */; };
 		4186BE142A609F40001074D9 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4186BE132A609F40001074D9 /* MenuItem.swift */; };
+		41C59E9A2A61CCA300561276 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C59E992A61CCA300561276 /* DataService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		4186BE092A609B22001074D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4186BE0C2A609B22001074D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4186BE132A609F40001074D9 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		41C59E992A61CCA300561276 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				4186BE052A609B21001074D9 /* MenuAppApp.swift */,
 				4186BE072A609B21001074D9 /* MenuView.swift */,
 				4186BE132A609F40001074D9 /* MenuItem.swift */,
+				41C59E992A61CCA300561276 /* DataService.swift */,
 				4186BE092A609B22001074D9 /* Assets.xcassets */,
 				4186BE0B2A609B22001074D9 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				4186BE142A609F40001074D9 /* MenuItem.swift in Sources */,
 				4186BE082A609B21001074D9 /* MenuView.swift in Sources */,
 				4186BE062A609B21001074D9 /* MenuAppApp.swift in Sources */,
+				41C59E9A2A61CCA300561276 /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
